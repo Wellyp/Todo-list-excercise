@@ -1,5 +1,8 @@
 # Todo-list-excercise
 ## excercise inspired by https://github.com/ousecTic/pern-todo-app | thanks dude
+
+## go to master branch
+
 ## main page
 ![image](https://user-images.githubusercontent.com/26911908/194039251-fc4e45a5-0e1f-4b7b-9ea7-2ae177d97ae7.png)
 ## edit modal
